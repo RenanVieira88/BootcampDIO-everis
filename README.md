@@ -1,5 +1,5 @@
 # Bootcamp Digital Inovation One - Everis
-Lista com os projetos em Java
+Lista com os projetos em Java/SQL
 
 ##Links uteis
 
